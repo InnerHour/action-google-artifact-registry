@@ -1,4 +1,4 @@
-FROM docker:20.10-dind
+FROM docker:24-dind
 
 LABEL maintainer="RafikFarhad <rafikfarhad@gmail.com>"
 LABEL org.opencontainers.image.source="https://github.com/RafikFarhad/push-to-gcr-github-action"
